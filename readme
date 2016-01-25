@@ -1,0 +1,5 @@
+Vagrant machine for mongodb:
+
+- ubuntu 12.04 LTS
+- port_forward 27017
+- mongodb v3.0.8
